@@ -1,0 +1,41 @@
+commit 51b0df151a4828e8c069d822166b4ae45b8339ae
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Wed Feb 27 20:17:12 2019 -0300
+
+    Built initial migration
+
+commit 9782ea7ef8d451349433193ffabf308d8bb4c3bc
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Wed Feb 27 20:09:23 2019 -0300
+
+    Built the migrations for pesquisa.
+
+commit 1e2de14c79d495e3cfd71896551819f879cdc4d3
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Tue Feb 26 21:45:37 2019 -0300
+
+    Build route for the first view example
+
+commit 667ed265bc3ff93c7436f521ae18f283667a0dad
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Tue Feb 26 21:26:59 2019 -0300
+
+    Add opiniao project to settings
+
+commit e1b7516bf0bae2e0d336c35618728a4e612899f3
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Tue Feb 26 21:26:40 2019 -0300
+
+    Add sqlite to gitignore
+
+commit 7b395765c622f5122b98b881ead2e15c19a44184
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Tue Feb 26 21:13:22 2019 -0300
+
+    Add gitignore file
+
+commit 1ee51764b241603d39c0f1734104028f55d70090
+Author: victorvuelma <victorvuelma@outlook.com>
+Date:   Tue Feb 26 20:51:52 2019 -0300
+
+    Add project structure
